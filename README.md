@@ -1,4 +1,4 @@
-# Four.meme BNB Chain Volume Bot 🚀
+# Four.meme BNB Volume Bot 🚀
 
 A powerful, automated volume bot for the [four.meme](https://four.meme) token launchpad on BNB Chain (Binance Smart Chain). This bot enables automated token creation with bundled buying and sophisticated volume boosting through multi-wallet trading strategies.
 
