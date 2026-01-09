@@ -475,6 +475,6 @@ Solana-Volume-Bot/
 ## 📩 Contact  
 For inquiries, custom integrations, or tailored solutions, reach out via:  
 
-💬 **Telegram**: [@its0xNightFly](https://t.me/its0xnightfly)
+💬 **Telegram**: [@d0sc4u](https://t.me/d0sc4u)
 
 ---
