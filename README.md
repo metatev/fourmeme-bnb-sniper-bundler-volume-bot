@@ -475,6 +475,6 @@ Solana-Volume-Bot/
 ## 📩 Contact  
 For inquiries, custom integrations, or tailored solutions, reach out via:  
 
-💬 **Telegram**: [@d0sc4u](https://t.me/d0sc4u)
+💬 **Telegram**: [@BuckyBonez](https://t.me/BuckyBonez)
 
 ---
